@@ -3,6 +3,8 @@ const arg = require('arg');
 const chalk = require('chalk');
 const path=require('path');
 
+//path is creating a main
+
 
 try {
   const args = arg({
