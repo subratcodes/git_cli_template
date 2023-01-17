@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 const arg = require('arg');
 const chalk = require('chalk');
+const path=require('path');
+
 
 try {
   const args = arg({
