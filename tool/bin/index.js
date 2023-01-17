@@ -4,6 +4,8 @@ const chalk = require('chalk');
 const path=require('path');
 
 //path is creating a main
+//path is creating 2 maon
+
 
 
 try {
